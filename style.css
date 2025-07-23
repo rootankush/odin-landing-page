@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+    font-family: Roboto;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sectionOne {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+
+.sectionTwo {
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionThree {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.buttonBar {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    align-self: flex-start;
+}
+
+.linkSection {
+    display: flex;
+    align-self: flex-end;
+}
+
+.centerSection {
+    display: flex;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+h4 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+h5 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
