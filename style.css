@@ -1,0 +1,32 @@
+* {
+    font-family: Roboto;
+}
+
+body {
+    /* background-color: white; */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.containerOne {
+
+}
+
+.containerTwo {
+
+}
+
+.containerThree {
+
+}
+
+.containerFour {
+
+}
+
+.footer {
+
+}
